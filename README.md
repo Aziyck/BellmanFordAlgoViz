@@ -1,4 +1,4 @@
-Bellman-Ford (Shortest/Longest path )visualization in python.
+Bellman-Ford (Shortest/Longest path) visualization in python.
 
 Dependencies:
 
